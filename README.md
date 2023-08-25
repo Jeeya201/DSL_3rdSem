@@ -1,7 +1,7 @@
 # DSL Third Semester
 SECOND YEAR SPPU COMP - PICT
 
-Jeeya Shah
+## Jeeya Shah
 
 List of Available Assignments:
 

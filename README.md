@@ -1,4 +1,4 @@
-# DSL Third semester
+# DSL Third Semester
 SECOND YEAR SPPU COMP - PICT
 
 Jeeya Shah
